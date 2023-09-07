@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I'm currently working on various statistic classes and a research project about the success of NBA teams
+## I'm currently learning how to be better at GitHub and Python
+
 <!--
 **hanct249/hanct249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
